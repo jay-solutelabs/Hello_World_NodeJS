@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: node/helloworld:latest
+          tags: jay01solutelabs/helloworld:latest
